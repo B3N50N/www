@@ -1,0 +1,44 @@
+<style>
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;   
+    height:300px;
+    width:200px;
+    float:left;
+    padding:5px; 
+}
+#section {
+    line-height:30px;
+    height:300px;
+    width:800px;
+    float:left;
+	text-align:center;
+    padding:5px;
+}
+#footer {
+    background-color:black;
+    color:white;
+    text-align:center;
+	position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 20px; 
+    width: 100%;
+}
+#nave{
+    line-height:30px;   
+    height:300px;
+    width:200px;
+    float:right;
+    padding:5px; 
+}
+#main  { 
+  width :  900px ; 
+  margin :  0  auto ;  
+}
+</style>
